@@ -1,5 +1,7 @@
 # Sidcards Applications
 
+---
+
 **Sidcards applications** são aplicações auxiliares que ficam "coladas" ou complementando uma aplicação principal. Elas servem para realizar tarefas específicas, como monitoramento, coleta de dados, ou integração com outros serviços, sem interferir diretamente na lógica principal da aplicação.
 
 Essas aplicações podem atuar como **sidecar containers** ou módulos que rodam em paralelo à aplicação principal, oferecendo **funcionalidades complementares** e **adicionais**. Elas são frequentemente usadas em ambientes **microservices** ou **containers**, onde a aplicação principal foca em uma tarefa específica e o sidecar cuida de outros aspectos, como segurança ou logging.

@@ -1,5 +1,7 @@
 # BFF Backend for Frontend
 
+---
+
 **BFF (Backend for Frontend)** é um padrão arquitetural que propõe a criação de **um backend específico para cada tipo de cliente** (ex: web, mobile, smartwatch). A ideia central é que **cada frontend consome exatamente os dados que precisa**, sem excesso nem falta de informação.
 
 Diferente de um backend genérico que serve todos os dispositivos da mesma forma, o BFF atua como uma **camada intermediária** entre o frontend e os serviços (APIs, banco de dados, etc), adaptando os dados para as necessidades específicas de cada tipo de interface.

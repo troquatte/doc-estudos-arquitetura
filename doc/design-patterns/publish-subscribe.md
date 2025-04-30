@@ -1,5 +1,7 @@
 # Publish - Subscribe
 
+---
+
 **Publish - Subscribe (Pub/Sub)** é um padrão de arquitetura de comunicação **assíncrona** entre sistemas, ideal para aplicações desacopladas e escaláveis.
 
 Nesse modelo, um **publisher (publicador)** envia mensagens para um **tópico**, e múltiplos **subscribers (assinantes)** consomem essas mensagens.
