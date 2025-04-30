@@ -6,9 +6,8 @@
     <title>Page Not Found</title>
     <script type="text/javascript">
       const pathname = window.location.pathname;
-
-      localStorage.setItem("@redirect", pathname);
-      window.location.href = pathname;
+      localStorage.setItem("@redirect", pathname.split("/").slice(2).join("/"));
+      window.location.href = "/" + pathname.split("/").slice(1)[0];
     </script>
   </head>
   <body>
