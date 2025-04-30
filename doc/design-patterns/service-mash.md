@@ -1,4 +1,4 @@
-## Service Mesh - ✅ Istio
+# Service Mesh - Istio
 
 ---
 
