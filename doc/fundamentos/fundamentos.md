@@ -85,10 +85,6 @@ Enterprise Architecture e Solution Architecture atuam em camadas diferentes, mas
 
 Enquanto a Enterprise pensa no todo, a Solution foca em viabilizar projetos concretos dentro dessa visão maior.
 
-( Referências importantes para leitura, Solution Architecture: https://www.amazon.com/Solutions-Architects-Handbook-Kick-start-architecture-ebook/dp/B0855XQZ44/ref=sr_1_1?crid=14KQT9QKZ13KN&keywords=solution+architect+handbook&qid=1676911165&s=books&sprefix=solution+architect+handbook%2Cstripbooks%2C105&sr=1-1 )
-
-( Referências importantes para leitura, Solution Architecture: https://www.amazon.com/Solution-Architecture-Patterns-Enterprise-Building-ebook/dp/B0BQ69KGLB/ref=sr_1_1?keywords=solution+architecture+patterns+for+enterprise&qid=1676911335&s=books&sprefix=solution+architecture+p%2Cstripbooks%2C82&sr=1-1 )
-
 ---
 
 ## Níveis de Arquitetura de Solução
@@ -120,3 +116,8 @@ Entender o domínio é mergulhar no negócio para entregar soluções que façam
 | Vendedor | Ingresso                |
 
 Quanto mais profundo o entendimento do domínio, melhor será a aderência da solução ao negócio.
+
+## Referências para leitura:
+
+✅ **Leitura recomendada**: [Solution Architecture](https://www.amazon.com/Solutions-Architects-Handbook-Kick-start-architecture-ebook/dp/B0855XQZ44/ref=sr_1_1?crid=14KQT9QKZ13KN&keywords=solution+architect+handbook&qid=1676911165&s=books&sprefix=solution+architect+handbook%2Cstripbooks%2C105&sr=1-1)
+✅ **Leitura recomendada**: [Solution Architecture Patterns](https://www.envoyproxy.io/)
