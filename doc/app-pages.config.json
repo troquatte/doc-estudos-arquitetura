@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Fundamentos",
+    "subMenu": [
+      {
+        "title": "Pessoa arquiteta"
+      },
+      {
+        "title": "Lei de Conway"
+      },
+      {
+        "title": "Views e Viewpoints"
+      },
+      {
+        "title": "Modelo 4 mais 1"
+      },
+      {
+        "title": "Sistema Enterprise"
+      }
+    ]
+  },
+  {
+    "title": "Design Patterns",
+    "subMenu": [
+      {
+        "title": "N-tier ou N-layer"
+      },
+      {
+        "title": "Multi-Tenant"
+      },
+      {
+        "title": "Stateless vs Stateful"
+      },
+      {
+        "title": "Serverless"
+      },
+      {
+        "title": "Microsserviços"
+      },
+      {
+        "title": "CQRS"
+      },
+      {
+        "title": "Caching"
+      },
+      {
+        "title": "Lock distribuido"
+      },
+      {
+        "title": "Configuration"
+      },
+      {
+        "title": "Secret Management"
+      },
+      {
+        "title": "Circuit Breaker"
+      },
+      {
+        "title": "Sequencing"
+      },
+      {
+        "title": "API Gateway"
+      },
+      {
+        "title": "Publish - Subscribe"
+      },
+      {
+        "title": "BFF"
+      },
+      {
+        "title": "Sidcards applications"
+      },
+      {
+        "title": "Service Mash"
+      }
+    ]
+  }
+]
