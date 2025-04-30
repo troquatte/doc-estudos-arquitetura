@@ -120,4 +120,5 @@ Quanto mais profundo o entendimento do domínio, melhor será a aderência da so
 ## Referências para leitura:
 
 ✅ **Leitura recomendada**: [Solution Architecture](https://www.amazon.com/Solutions-Architects-Handbook-Kick-start-architecture-ebook/dp/B0855XQZ44/ref=sr_1_1?crid=14KQT9QKZ13KN&keywords=solution+architect+handbook&qid=1676911165&s=books&sprefix=solution+architect+handbook%2Cstripbooks%2C105&sr=1-1)
+
 ✅ **Leitura recomendada**: [Solution Architecture Patterns](https://www.envoyproxy.io/)

@@ -37,4 +37,5 @@ No entanto, o uso de uma malha de serviço pode introduzir complexidade operacio
 ## Referências para leitura:
 
 ✅ **Leitura recomendada**: [Istio](https://istio.io/)
+
 ✅ **Leitura recomendada**: [Envoy Proxy](https://www.envoyproxy.io/)
