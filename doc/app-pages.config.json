@@ -74,5 +74,31 @@
         "title": "Service Mash"
       }
     ]
+  },
+  {
+    "title": "Well Architected",
+    "subMenu": [
+      {
+        "title": "Excelência operacional"
+      },
+      {
+        "title": "Segurança"
+      },
+      {
+        "title": "Confiabilidade"
+      },
+      {
+        "title": "Eficiência e performance"
+      },
+      {
+        "title": "Otimização de custos"
+      },
+      {
+        "title": "Sustentabilidade"
+      },
+      {
+        "title": "Principios Gerais"
+      }
+    ]
   }
 ]
